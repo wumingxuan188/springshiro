@@ -1,0 +1,10 @@
+com\wu\realm\MyRealm.class
+com\wu\service\UserService.class
+com\wu\pojo\Users.class
+com\wu\test\Demo.class
+com\wu\pojo\UsersExample$Criteria.class
+com\wu\pojo\UsersExample.class
+com\wu\mapper\UsersMapper.class
+com\wu\pojo\UsersExample$Criterion.class
+com\wu\controller\UserController.class
+com\wu\pojo\UsersExample$GeneratedCriteria.class
